@@ -11,10 +11,10 @@ Esse projeto foi desenvolvido em grupo no módulo de front-end da Trybe. O proje
 ---
 
 # Grupo
-[Cássio Gabriel](https://github.com/cassiomirailh)
-[Elthon Villa](https://github.com/elthonvilla)
-[Lenon Rust](https://github.com/lenonrust)
-[Lilith Gouveia](https://github.com/LilithGouveia)
+  - [Cássio Gabriel](https://github.com/cassiomirailh)
+  - [Elthon Villa](https://github.com/elthonvilla)
+  - [Lenon Rust](https://github.com/lenonrust)
+  - [Lilith Gouveia](https://github.com/LilithGouveia)
 
 # Habilidades
 
